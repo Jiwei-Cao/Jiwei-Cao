@@ -41,3 +41,7 @@ I'm a Computer Science student studying at King's college London, interested in 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiwei-Cao&theme=github_dark)
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jiwei-Cao&theme=github_dark)
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jiwei-Cao&theme=github_dark)
