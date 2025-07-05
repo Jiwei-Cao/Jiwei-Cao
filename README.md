@@ -4,7 +4,7 @@
 
 ### 🧠 About Me:
 
-I'm a Computer Science student studying at King's college London, interested in machine learning, cloud computing and full-stack apps. I enjoy solving problems, building scalable systems, and sharing what I learn.
+I'm a Computer Science student studying at King's College London, interested in machine learning, cloud computing and full-stack apps. I enjoy solving problems, building scalable systems, and sharing what I learn.
 
 ---
 
